@@ -1,0 +1,11 @@
+{
+	"auto_upgrade_last_run": 1345171692,
+	"installed_packages":
+	[
+		"Alignment",
+		"GBK Encoding Support",
+		"Git",
+		"Package Control",
+		"SublimeClang"
+	]
+}
